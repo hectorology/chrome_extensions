@@ -4,5 +4,5 @@ I'm creating some Chrome extensions that I find useful or interesting for my per
 
 List of current finished extensions:
 
-1: Google Search Page Hack
+1: Google Search Page Hack - 
   *changes the display of the Google search page*
